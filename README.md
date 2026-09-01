@@ -1,6 +1,6 @@
-# Nombre de la aplicación
+# Compartidos
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+Compartidos es una aplicacion movil que permite el prestamo de libros a los usuarios
 
 Autor(es): Nombre del estudiante
 
