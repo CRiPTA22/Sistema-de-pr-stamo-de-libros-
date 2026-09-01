@@ -2,7 +2,7 @@
 
 Compartidos es una aplicacion movil que permite el prestamo de libros a los usuarios
 
-Autor(es): Nombre del estudiante
+Autores: Igor Galvis, Mario Reyes, Juan Vargas
 
 ## Referencias
 
